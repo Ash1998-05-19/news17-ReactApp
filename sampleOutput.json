@@ -1,0 +1,37 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+      {
+        "source": { "id": null, "name": "ScienceAlert" },
+        "author": "David Nield",
+        "title": "Not Drinking Enough Water Linked to Serious Health Risks, Study Warns - ScienceAlert",
+        "description": "We're regularly told to drink plenty of water to maintain our health.",
+        "url": "https://www.sciencealert.com/not-drinking-enough-water-linked-to-serious-health-risks-study-warns",
+        "urlToImage": "https://www.sciencealert.com/images/2023/01/HandHoldsGlassOfWater.jpg",
+        "publishedAt": "2023-01-04T03:17:38Z",
+        "content": "We're regularly told to drink plenty of water to maintain our health. A new study provides a few more good reasons to stay well-hydrated including fewer chronic health conditions and a greater chance… [+3743 chars]"
+      },
+      {
+        "source": { "id": null, "name": "Neurosciencenews.com" },
+        "author": "Neuroscience News",
+        "title": "Age-Related Macular Degeneration a Risk Factor for COVID-19 Infection and Severe Disease - Neuroscience News",
+        "description": "More severe COVID-19 outcomes associated with age-related macular degeneration likely arise from a genetic predisposition in addition to higher levels of Pdgf in blood serum.",
+        "url": "https://neurosciencenews.com/amd-covid-22161/",
+        "urlToImage": "https://neurosciencenews.com/files/2023/01/amd-covid-neurosiceces-public.jpg",
+        "publishedAt": "2023-01-04T00:03:27Z",
+        "content": "Summary: More severe COVID-19 outcomes associated with age-related macular degeneration likely arise from a genetic predisposition in addition to higher levels of Pdgf in blood serum.\r\nSource: Boston… [+5961 chars]"
+      },
+      {
+        "source": { "id": null, "name": "Space.com" },
+        "author": "Robert Lea",
+        "title": "Watch NASA's SWOT satellite unfold in space to map Earth's water in stunning video - Space.com",
+        "description": "The cameras aboard the satellite captured its main science instrument antennas unfurling in orbit over Earth.",
+        "url": "https://www.space.com/nasa-swot-earth-satellite-unfolds-video",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/dep4GtiZkvFt6iaT7vWH6H-1200-80.jpg",
+        "publishedAt": "2023-01-02T16:00:14Z",
+        "content": "A new video shows the dramatic moment a new NASA spacecraft spread its metaphorical wings unfolding its most vital instrumentation while in orbit around Earth. \r\nThe SWOT satellite (its name is short… [+3517 chars]"
+      }
+    ]
+  }
+  
